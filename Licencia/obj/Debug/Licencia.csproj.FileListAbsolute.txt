@@ -1,0 +1,25 @@
+K:\Programacion y desarrollo\proyectos Visual Studio\Licencia\Licencia\bin\Debug\Licencia.exe
+K:\Programacion y desarrollo\proyectos Visual Studio\Licencia\Licencia\bin\Debug\Licencia.pdb
+K:\Programacion y desarrollo\proyectos Visual Studio\Licencia\Licencia\obj\Debug\Licencia.csprojResolveAssemblyReference.cache
+K:\Programacion y desarrollo\proyectos Visual Studio\Licencia\Licencia\obj\Debug\Licencia.Form1.resources
+K:\Programacion y desarrollo\proyectos Visual Studio\Licencia\Licencia\obj\Debug\Licencia.Properties.Resources.resources
+K:\Programacion y desarrollo\proyectos Visual Studio\Licencia\Licencia\obj\Debug\Licencia.csproj.GenerateResource.Cache
+K:\Programacion y desarrollo\proyectos Visual Studio\Licencia\Licencia\obj\Debug\Licencia.exe
+K:\Programacion y desarrollo\proyectos Visual Studio\Licencia\Licencia\obj\Debug\Licencia.pdb
+H:\Programacion y desarrollo\proyectos Visual Studio\Licencia\Licencia\obj\Debug\Licencia.exe
+H:\Programacion y desarrollo\proyectos Visual Studio\Licencia\Licencia\obj\Debug\Licencia.pdb
+G:\Programacion y desarrollo\proyectos Visual Studio\Licencia\Licencia\obj\Debug\Licencia.exe
+G:\Programacion y desarrollo\proyectos Visual Studio\Licencia\Licencia\obj\Debug\Licencia.pdb
+G:\Programacion y desarrollo\proyectos Visual Studio\Licencia\Licencia\bin\Debug\Licencia.exe
+G:\Programacion y desarrollo\proyectos Visual Studio\Licencia\Licencia\bin\Debug\Licencia.pdb
+G:\Programacion y desarrollo\proyectos Visual Studio\Licencia\Licencia\obj\Debug\Licencia.Form1.resources
+G:\Programacion y desarrollo\proyectos Visual Studio\Licencia\Licencia\obj\Debug\Licencia.Properties.Resources.resources
+G:\Programacion y desarrollo\proyectos Visual Studio\Licencia\Licencia\obj\Debug\Licencia.csproj.GenerateResource.Cache
+C:\Users\HL\Desktop\Licencia\Licencia\obj\Debug\Licencia.exe
+C:\Users\HL\Desktop\Licencia\Licencia\obj\Debug\Licencia.pdb
+C:\Users\HL\Desktop\Licencia\Licencia\bin\Debug\Licencia.exe
+C:\Users\HL\Desktop\Licencia\Licencia\bin\Debug\Licencia.pdb
+C:\Users\HL\Desktop\Licencia\Licencia\obj\Debug\Licencia.csprojResolveAssemblyReference.cache
+C:\Users\HL\Desktop\Licencia\Licencia\obj\Debug\Licencia.Form1.resources
+C:\Users\HL\Desktop\Licencia\Licencia\obj\Debug\Licencia.Properties.Resources.resources
+C:\Users\HL\Desktop\Licencia\Licencia\obj\Debug\Licencia.csproj.GenerateResource.Cache
